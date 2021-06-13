@@ -2,5 +2,5 @@
 
 <p>
   Site em Js puro que mostra personagens aleatórios do desenho Rick and Morty.</br>
-  As imagens são buscandas em uma API e alteradas sempre que a página é recarregada.
+  As imagens são buscadas em uma API e alteradas sempre que a página é recarregada.
 </p>
